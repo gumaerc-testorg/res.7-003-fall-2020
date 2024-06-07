@@ -1,9 +1,9 @@
 leftnav:
-- identifier: external-6db1d735e4114f3ab94ae915e25f7dea
+- identifier: b26e8275-02d7-4839-8b22-129fccaeaff6
   name: Online Publication
-  url: https://bravenewplanet.org/
+  pageRef: /external-resources/online-publication_b26e8275-02d7-4839-8b22-129fccaeaff6
   weight: 10
-- identifier: external-1262203527-1650549636442
+- identifier: 25b6e238-e8fe-44be-8883-0da3521015fa
   name: A Learner's Guide
-  url: https://www.ocw-openmatters.org/2020/11/02/brave-new-planet-a-learners-guide/
+  pageRef: /external-resources/a-learners-guide_25b6e238-e8fe-44be-8883-0da3521015fa
   weight: 20
